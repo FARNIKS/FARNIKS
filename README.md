@@ -1,73 +1,164 @@
 <div align="center">
 
-  <h1>👋 ¡Hola, soy Miguel Ángel Jiménez!</h1>
-  <h3>Desarrollador de Software Full Stack & Aprendiz ADSO SENA</h3>
+  <!-- Animated Typing Banner -->
+  <a href="https://linkedin.com/in/miguel-angel-jimenez-fajardo">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&random=false&width=600&height=50&lines=Hi+%F0%9F%90%8B%2C+I'm+Miguel+%C3%81ngel+Jim%C3%A9nez;Full+Stack+Junior+Developer;Automation+%26+Backend+Specialist;PHP+(Laravel+12)+%2B+React+%2B+SQL+Server" alt="Typing SVG" />
+  </a>
+  <br>
+  <br>
 
-  <p>
-    Enfocado en el diseño y desarrollo de arquitecturas modulares, consumo/construcción de REST APIs,<br>
-    y automatización de sistemas corporativos web e híbridos.
+  <!-- Action Badges -->
+  <p align="center">
+    <a href="https://linkedin.com/in/miguel-angel-jimenez-fajardo">
+      <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://tu-portafolio.com">
+      <img src="https://img.shields.io/badge/PORTAFOLIO_WEB-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio Web" />
+    </a>
+    <a href="mailto:migueljimenez021405@gmail.com">
+      <img src="https://img.shields.io/badge/CONTACTO-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
   </p>
 
-  <!-- Insignias de Contacto y Perfiles -->
-  <a href="https://www.linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:tu-correo@ejemplo.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+</div>
+
+<!-- Animated Capsule Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:FF2D20&height=80&section=header" width="100%" alt="Header Wave"/>
+
+### 🎧 My Vibe & Mission Statement
+
+> *"Desarrollando software funcional, automatizando procesos y combinando lógica backend sólida con interfaces limpias."*
+
+* 🚀 **Enfoque Actual:** Creación de soluciones web corporativas escalables, arquitectura desacoplada y desarrollo/consumo de REST APIs.
+* 🛠️ **Especialidad:** Backend en **PHP (Laravel 12)** y **SQL Server 2025**, integración **React**, automatización de flujos con **IA Generativa** y despliegues en servidores **IIS**.
+* ⚡ **Fun Fact:** Apasionado por los videojuegos indie, el pixel art, el desarrollo modular y la optimización de código.
+
+<!-- Animated Capsule Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&custom_color_list=0A66C2,61DAFB,FF2D20&height=4&section=header" width="100%" alt="Divider Line"/>
+
+### 🛠️ Tech Stack & Arsenal
+
+<div align="center">
+
+  <p>
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,react,java,spring,python,html,css,bootstrap" alt="Languages & Frameworks" />
+  </p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=mssql,firebase,git,github,vscode,postman" alt="Databases & Tools" />
+  </p>
+
+  <br>
+
+  <div>
+    <strong>⚔️ Backend & Enterprise:</strong><br>
+    <img src="https://img.shields.io/badge/PHP_11%2F12-777BB4?style=flat-square&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL_Server_2025-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+    <img src="https://img.shields.io/badge/REST_APIs-0055DA?style=flat-square&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/IIS_Deployment-0078D7?style=flat-square&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/LDAP_%2F_Active_Directory-0078D4?style=flat-square&logo=windows&logoColor=white" />
+  </div>
+
+  <div style="margin-top: 8px;">
+    <strong>🛡️ Frontend & Web:</strong><br>
+    <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bootstrap_Table-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+  </div>
+
+  <div style="margin-top: 8px;">
+    <strong>🔮 Workflow & Tools:</strong><br>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitFlow-F05032?style=flat-square&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+    <img src="https://img.shields.io/badge/Google_Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+  </div>
 
 </div>
 
----
+<!-- Animated Capsule Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&custom_color_list=0A66C2,61DAFB,FF2D20&height=4&section=header" width="100%" alt="Divider Line"/>
 
-### 🚀 Sobre mí
+### 🧠 Passive Skills & Soft Attributes
 
-- 🔭 **Actualmente trabajando en:** Desarrollo de módulos corporativos de gestión, automatizaciones web y modernización de plataformas de evaluación de desempeño.
-- 🌱 **Fortaleciendo conocimientos en:** Arquitecturas limpias, optimización de base de datos SQL Server y patrones de diseño en Laravel 12 y React.
-- ⚡ **Enfoque técnico:** Integración de LDAP / Active Directory, despliegue en entornos de producción (IIS) y construcción de SPAs reactivas.
-- 🎯 **Objetivo:** Aportar soluciones de software robustas, escalables y orientadas a la resolución de problemas reales de negocio.
+* 🧩 **Pensamiento Analítico & Problem Solving:** Capacidad para descomponer problemas complejos en soluciones técnicas eficientes y escalables.
+* 🤝 **Trabajo en Equipo (Co-Op):** Excelente comunicación técnica, adaptabilidad a flujos ágiles y colaboración continua.
+* ⚡ **Fast Learner & Adaptabilidad:** Asimilación rápida de nuevas tecnologías, herramientas e integración de IA en el flujo dev.
+* 🎯 **Business Agility:** Orientación hacia resultados que aportan valor real a los objetivos corporativos del negocio.
 
----
+<!-- Animated Capsule Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&custom_color_list=0A66C2,61DAFB,FF2D20&height=4&section=header" width="100%" alt="Divider Line"/>
 
-### 🛠️ Tech Stack
+### 🚀 Featured Projects & Completed Quests
 
-#### **Backend & Bases de Datos**
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/IIS-0078D7?style=for-the-badge&logo=windows&logoColor=white" alt="IIS" />
-</p>
+<details open>
+  <summary><b>🏢 Sistema de Automatización EL ORBE</b> <i>(Haz clic para desplegar/ocultar)</i></summary>
+  <br>
+  <blockquote>
+    Plataforma corporativa desarrollada para la automatización de comunicaciones internas y gestión operativa.<br>
+    🛠️ <b>Tech Stack:</b> <code>Laravel 12</code> • <code>React</code> • <code>SQL Server 2025</code> • <code>IIS</code> • <code>LDAP / Active Directory</code><br>
+    ✨ <b>Key Features:</b> Autenticación centralizada corporativa y ejecución de tareas programadas en segundo plano.
+  </blockquote>
+</details>
 
-#### **Frontend & UI**
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
+<details open>
+  <summary><b>✈️ Módulo de Viáticos y Gastos (Sincronizados)</b></summary>
+  <br>
+  <blockquote>
+    Módulo de gestión financiera corporativa enfocado en el registro y liquidación de gastos de viaje.<br>
+    🛠️ <b>Tech Stack:</b> <code>React</code> • <code>Componentes Modulares</code> • <code>Axios Interceptors</code><br>
+    ✨ <b>Key Features:</b> Interfaz reactiva fluida, control de estados complejos y consumo optimizado de APIs.
+  </blockquote>
+</details>
 
-#### **Herramientas & Entorno**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-</p>
+<details open>
+  <summary><b>📊 Plataforma de Evaluaciones de Desempeño</b></summary>
+  <br>
+  <blockquote>
+    Modernización de arquitectura legacy hacia una estructura totalmente desacoplada.<br>
+    🛠️ <b>Tech Stack:</b> <code>REST APIs</code> • <code>Laravel</code> • <code>React</code><br>
+    ✨ <b>Key Features:</b> Gestión por fases de flujo de trabajo y notificaciones automatizadas.
+  </blockquote>
+</details>
 
----
+<details open>
+  <summary><b>🛍️ Replicant Apparel</b></summary>
+  <br>
+  <blockquote>
+    Aplicación web e-commerce orientada a la comercialización de prendas de vestir.<br>
+    🛠️ <b>Tech Stack:</b> <code>React</code> • <code>Firebase</code> • <code>Stripe API</code><br>
+    ✨ <b>Key Features:</b> Pasarela de pagos segura e integración en tiempo real.
+  </blockquote>
+</details>
 
-### 📊 Estadísticas de GitHub
+<!-- Animated Capsule Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&custom_color_list=0A66C2,61DAFB,FF2D20&height=4&section=header" width="100%" alt="Divider Line"/>
+
+### 🎓 Educación & Unlocked Certifications
+
+* 🎓 **[MAIN DEGREE] Tecnólogo en Análisis y Desarrollo de Software (ADSO)** — SENA *(2024 – Presente)*
+* 📜 **[SPECIALIZATION] Especialización Java, Spring Boot y DB (Programa ONE)** — Alura / Oracle *(2023)*
+* 🤖 **[BUFF] Inmersión IA & Prompt Engineering** — Alura Latam *(2025)*
+* 💻 **[PERK] Cursos Profesionales de Git, GitFlow y JavaScript (ES6+)** — Código Facilito *(2025)*
+
+<!-- Animated Capsule Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D20,100:0A66C2&height=100&section=footer" width="100%" alt="Footer Wave"/>
+
+### 💬 Dev Quote
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FARNIKS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FARNIKS&layout=compact&theme=tokyonight&hide=html,css"/>
-</div>
 
----
+  > *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*  
+  > **— Martin Fowler**
 
-<div align="center">
-  <sub>Diseñado con dedicación y enfoque profesional. ¡Gracias por visitar mi perfil! 🚀</sub>
+  <br>
+
+  <sub>👾 Crafted with clean code, pixels & coffee by <b>Miguel Ángel Jiménez</b> 🚀</sub>
+
 </div>

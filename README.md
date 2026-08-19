@@ -1,13 +1,13 @@
 <div align="center">
 
-  <!-- Animated Typing Banner -->
+  <!-- Animated Typing Banner con Alien Pixel -->
   <a href="https://linkedin.com/in/miguel-angel-jimenez-fajardo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&random=false&width=600&height=50&lines=Hi+%F0%9F%90%8B%2C+I'm+Miguel+%C3%81ngel+Jim%C3%A9nez;Full+Stack+Junior+Developer;Automation+%26+Backend+Specialist;PHP+(Laravel+12)+%2B+React+%2B+SQL+Server" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&random=false&width=600&height=50&lines=Hi+%F0%9F%91%BE%2C+I'm+Miguel+%C3%81ngel+Jim%C3%A9nez;Full+Stack+Junior+Developer" alt="Typing SVG" />
   </a>
-  <br>
-  <br>
 
-  <!-- Action Badges -->
+  <br><br>
+
+  <!-- Action Badges Centrados -->
   <p align="center">
     <a href="https://linkedin.com/in/miguel-angel-jimenez-fajardo">
       <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -23,7 +23,7 @@
 </div>
 
 <!-- Animated Capsule Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:FF2D20&height=80&section=header" width="100%" alt="Header Wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:FF2D20&height=80&section=header" width="100%" alt="Header Wave" />
 
 ### 🎧 My Vibe & Mission Statement
 
@@ -34,22 +34,35 @@
 * ⚡ **Fun Fact:** Apasionado por los videojuegos indie, el pixel art, el desarrollo modular y la optimización de código.
 
 <!-- Animated Capsule Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&custom_color_list=0A66C2,61DAFB,FF2D20&height=4&section=header" width="100%" alt="Divider Line"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&custom_color_list=0A66C2,61DAFB,FF2D20&height=4&section=header" width="100%" alt="Divider Line" />
 
 ### 🛠️ Tech Stack & Arsenal
 
 <div align="center">
 
-  <p>
-    <img src="https://skillicons.dev/icons?i=php,laravel,js,react,java,spring,python,html,css,bootstrap" alt="Languages & Frameworks" />
-  </p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=mssql,firebase,git,github,vscode,postman" alt="Databases & Tools" />
+  <!-- Iconos individuales responsivos que hacen salto de línea automático en móviles -->
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=php" alt="PHP" height="48" />
+    <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" height="48" />
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="48" />
+    <img src="https://skillicons.dev/icons?i=react" alt="React" height="48" />
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" height="48" />
+    <img src="https://skillicons.dev/icons?i=spring" alt="Spring" height="48" />
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" height="48" />
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" height="48" />
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" height="48" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="48" />
+    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" height="48" />
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" height="48" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="48" />
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="48" />
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="48" />
   </p>
 
   <br>
 
-  <div>
+  <!-- Badges agrupados por categorías centrados -->
+  <div align="center">
     <strong>⚔️ Backend & Enterprise:</strong><br>
     <img src="https://img.shields.io/badge/PHP_11%2F12-777BB4?style=flat-square&logo=php&logoColor=white" />
     <img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
@@ -62,7 +75,9 @@
     <img src="https://img.shields.io/badge/LDAP_%2F_Active_Directory-0078D4?style=flat-square&logo=windows&logoColor=white" />
   </div>
 
-  <div style="margin-top: 8px;">
+  <br>
+
+  <div align="center">
     <strong>🛡️ Frontend & Web:</strong><br>
     <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
     <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -71,7 +86,9 @@
     <img src="https://img.shields.io/badge/Bootstrap_Table-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
   </div>
 
-  <div style="margin-top: 8px;">
+  <br>
+
+  <div align="center">
     <strong>🔮 Workflow & Tools:</strong><br>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/GitFlow-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -83,7 +100,7 @@
 </div>
 
 <!-- Animated Capsule Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&custom_color_list=0A66C2,61DAFB,FF2D20&height=4&section=header" width="100%" alt="Divider Line"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&custom_color_list=0A66C2,61DAFB,FF2D20&height=4&section=header" width="100%" alt="Divider Line" />
 
 ### 🧠 Passive Skills & Soft Attributes
 
@@ -93,7 +110,7 @@
 * 🎯 **Business Agility:** Orientación hacia resultados que aportan valor real a los objetivos corporativos del negocio.
 
 <!-- Animated Capsule Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&custom_color_list=0A66C2,61DAFB,FF2D20&height=4&section=header" width="100%" alt="Divider Line"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&custom_color_list=0A66C2,61DAFB,FF2D20&height=4&section=header" width="100%" alt="Divider Line" />
 
 ### 🚀 Featured Projects & Completed Quests
 
@@ -138,7 +155,7 @@
 </details>
 
 <!-- Animated Capsule Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&custom_color_list=0A66C2,61DAFB,FF2D20&height=4&section=header" width="100%" alt="Divider Line"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&custom_color_list=0A66C2,61DAFB,FF2D20&height=4&section=header" width="100%" alt="Divider Line" />
 
 ### 🎓 Educación & Unlocked Certifications
 
@@ -148,7 +165,7 @@
 * 💻 **[PERK] Cursos Profesionales de Git, GitFlow y JavaScript (ES6+)** — Código Facilito *(2025)*
 
 <!-- Animated Capsule Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D20,100:0A66C2&height=100&section=footer" width="100%" alt="Footer Wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D20,100:0A66C2&height=100&section=footer" width="100%" alt="Footer Wave" />
 
 ### 💬 Dev Quote
 
@@ -158,7 +175,5 @@
   > **— Martin Fowler**
 
   <br>
-
-  <sub>👾 Crafted with clean code, pixels & coffee by <b>Miguel Ángel Jiménez</b> 🚀</sub>
 
 </div>

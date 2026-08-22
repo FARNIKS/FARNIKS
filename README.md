@@ -125,8 +125,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&custom_color_list=0A66C2,61DAFB,FF2D20&height=4&section=header" width="100%" alt="Divider Line" />
 
-  <br>
-
 ### 🎓 Educación & Certificaciones
 
 * 🎓 **[MAIN DEGREE] Tecnólogo en Análisis y Desarrollo de Software (ADSO)** — SENA *(2024 – 2026)*

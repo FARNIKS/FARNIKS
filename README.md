@@ -12,10 +12,10 @@
 
   <!-- Action Badges Centrados -->
   <p align="center">
-    <a href="https://linkedin.com/in/miguel-angel-jimenez-fajardo">
+    <a href="https://linkedin.com/in/miguel-angel-jimenez-fajardo" target="_blank">
       <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://portafolio-five-mu-61.vercel.app/">
+    <a href="https://portafolio-five-mu-61.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/PORTAFOLIO_WEB-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio Web" />
     </a>
   
@@ -130,9 +130,22 @@
 ### 🎓 Educación & Certificaciones
 
 * 🎓 **[MAIN DEGREE] Tecnólogo en Análisis y Desarrollo de Software (ADSO)** — SENA *(2024 – 2026)*
-* 📜 **[SPECIALIZATION] Especialización Java, Spring Boot y DB (Programa ONE)** — Alura / Oracle *(2023)*
-* 🤖 **[BUFF] Inmersión IA & Prompt Engineering** — Alura Latam *(2025)*
-* 💻 **[PERK] Cursos Profesionales de Git, GitFlow y JavaScript (ES6+)** — Código Facilito *(2025)*
+  > Architecture, UML modeling, relational databases, full-stack web dev, and software testing.
+
+* 📜 **[PROGRAMS] Programas Integradores ORACLE / ONE & Alura Latam**
+  * 🟢 **Programa Front-End G6 (313h)** — Oracle / Alura Latam *(Jun 2024)*
+  * ☕ **Programa Java G5 (331h)** — Oracle / Alura Latam *(Sep 2023)*
+
+* 🚀 **[SPECIALIZATIONS] Especializaciones de Carrera (Oracle / Alura Latam)**
+  * ⚛️ **Especialización React & Front-End (247h total)** — React Architecture, State Management & ES6+ *(Jun 2024)*
+  * 🍃 **Especialización Java & Spring Boot (117h total)** — REST APIs, OOP & Persistent Data Integration *(Sep 2023)*
+  * 🗄️ **Especialización SQL & MySQL Server (159h total)** — Relational DB Design & Advanced Querying *(Nov 2023)*
+  * 💡 **Fundamentos & Logic (86h total)** — Programming Logic, JavaScript Algorithms & Soft Skills *(Feb 2024)*
+
+* 💻 **[CERTIFICATIONS] Cursos Profesionales — Código Facilito**
+  * 🟡 **Curso Profesional de JavaScript** *(8h 51m — Dic 2025)*
+  * 🐍 **Curso Profesional de Python** *(8h 39m — Mar 2025)*
+  * 🐙 **Git & GitHub a Fondo (GitFlow Workflows)** *(6h 17m — Dic 2025)*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D20,100:0A66C2&height=100&section=footer" width="100%" alt="Footer Wave" />
 
